@@ -10,3 +10,5 @@ updates:
   - dependency-name: proptest
     versions:
     - 0.10.1
+  cooldown:
+    default-days: 2
